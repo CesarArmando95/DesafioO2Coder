@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Frank+Ruhl+Libre:wght@700&family=Mulish:ital,wght@1,300&display=swap');
+*{
+	margin: 0;
+	padding: 0;
+}
+body{
+    min-height: 100vh;
+    background-image: linear-gradient(
+        rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.3)), url("img/fondoH.jpg");
+    background-size: cover;
+    font-family: 'Mulish', sans-serif;
+    font-size: 150%;
+}
+header{
+    margin-left: 3em;
+}
+.header__logo{
+    width: 200px;
+}
+nav ul li a:hover{
+    background-color: green;
+}
+.tamanoImagenes{
+    width:980px;
+    height:660px;
+}
