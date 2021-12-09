@@ -24,3 +24,10 @@ nav ul li a:hover{
     width:980px;
     height:660px;
 }
+.reglas{
+    padding-left: 40px;
+}
+.reglas__separacion{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
